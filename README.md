@@ -1,20 +1,13 @@
 # Applied-Data-Science
 Coursera Capstone Course
 
-Requirements:
-
-- [ ] Uploaded the URL of your GitHub repository including all the completed notebooks and Python files (1 pt)
-- [ ] Uploaded your completed presentation in PDF format (1 pt)
-- [ ] Completed the required Executive Summary slide (1 pt)
-- [ ] Completed the required Introduction slide (1 pt)
-- [ ] Completed the required data collection and data wrangling methodology related slides (1 pt)
-- [ ] Completed the required EDA and interactive visual analytics methodology related slides (3 pts)
-- [ ] Completed the required predictive analysis methodology related slides (1 pt)
-- [ ] Completed the required EDA with visualization results slides (6 pts)
-- [ ] Completed the required EDA with SQL results slides (10 pts)
-- [ ] Completed the required interactive map with Folium results slides (3 pts)
-- [ ] Completed the required Plotly Dash dashboard results slides (3 pts)
-- [ ] Completed the required predictive analysis (classification) results slides (6 pts)
-- [ ] Completed the required Conclusion slide (1 pts)
-- [ ] Applied your creativity to improve the presentation beyond the template (1 pts)
-- [ ] Displayed any innovative insights (1 pts)
+1 - What is Data Science?
+2 - Tools for Data Science
+3 - Data Science Methodology
+4 - Python for Data Science, AI & Development
+5 - Python Project for Data Science
+6 - Databases and SQL for Data Science with Python
+7 - Data Analysis with Python
+8 - Data Visualization with Python
+9 - Machine Learning with Python
+10 - Applied Data Science Capstone
